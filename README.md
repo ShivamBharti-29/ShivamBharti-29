@@ -42,6 +42,12 @@ With a strong foundation in **Java, Data Structures & Algorithms**, and modern w
 
 ---
 
+### 🗄️ Database Management
+* **NoSQL:** Schema-less data modeling and document-based storage using **MongoDB**.
+* **Relational (SQL):** Structured data management, complex **query optimization**, and relational integrity with **MySQL**.
+
+---
+
 ### Machine Learning & Data Science
 - Exploratory Data Analysis (**EDA**)
 - Feature Engineering
