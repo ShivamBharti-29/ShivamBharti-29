@@ -75,7 +75,7 @@ With a strong foundation in **Java, Data Structures & Algorithms**, and modern w
 ## 📊 My Full Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkumarbharti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumarbharti&layout=compact&theme=tokyonight&count_weight=0.5&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumarbharti&layout=compact&theme=tokyonight&hide=html,css&langs_count=10&v=1)
 
 ---
 
